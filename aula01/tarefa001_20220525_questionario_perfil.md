@@ -4,8 +4,7 @@
 2. Nome: Dener Pereira Barbosa 
 
 3. Qual seu conhecimento/experiência em relação ao desenvolvimento de software? </br>
-Devido ao fato de não estar trabalhando na area, maior parte do meu conhecimento está voltado para assuntos tratados em aulas, com um maior foco na parte de 
-processos e de design, do que da parte de programação.
+Devido ao fato de não estar trabalhando na area, maior parte do meu conhecimento está voltado para assuntos tratados em aulas, com um maior foco na parte de processos e de design, do que da parte de programação.
 
 4. Quais Linguagens de Programação você domina? </br>
 JavaScript, Java. Embora tenha preferencia pelo JavaScript.
