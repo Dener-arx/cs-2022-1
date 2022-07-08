@@ -1,5 +1,17 @@
 # Tarefa 011 - Padrões de Codificação (Leiaute e estilo), Reflexão e Programação defensiva - 08/07/2022
 
+### Padrões de Codificação
+
+
+
+### Reflexão
+
+
+### Programação Defensiva
+
+
+
+
 1. Fazer uma pesquisa sobre os três temas componentes do temas: **Padrões de Codificação**, **Reflexão** e **Programação Defensiva**:
 
   1.1. Sugestão de links para a pesquisa sobre Padrões de Codificação:
