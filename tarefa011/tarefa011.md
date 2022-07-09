@@ -2,9 +2,24 @@
 
 ### Padrões de Codificação
 
+Padrões de Codificação são regras empregadas durante a codificação com o objetive de facilitar a leitura e o entendimento do que está sendo realizado no código.
+Embora todas as linguagens de programação tenham suas próprias regras, existe um grau de liberdade muito grande para qualquer ação realizada.
 
+Em linguagem de maquina  espaços, identações ou mesmo quebras de linha não tem nenhuma influencia no funcionamento do código, de forma que o mesmo poderia ser escrito em uma única linha e ainda ser executado normalmente. Entretanto isso seria bem dificil de entender para qualquer pessoa. 
+
+Exemplo: Dentre os dois 'while' abaixo, o segundo, que faz uso de indentação para indicar o que está contido nele é mais fácil de entender do que o primeiro, que tem a condição e a execução na mesma linha. 
+
+<pre>
+while (X>Y){X++;}
+
+while (X>Y){
+  X++;
+}
+</pre>
 
 ### Reflexão
+
+
 
 
 ### Programação Defensiva
@@ -13,16 +28,6 @@
 
 
 1. Fazer uma pesquisa sobre os três temas componentes do temas: **Padrões de Codificação**, **Reflexão** e **Programação Defensiva**:
-
-  1.1. Sugestão de links para a pesquisa sobre Padrões de Codificação:
-
-    1.1.1 [Link 1](https://www.devmedia.com.br/padroes-de-codificacao/16529);
-
-    1.1.2 [Link 2](https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S&B/guidances/concepts/coding_standard_C98B0B0.html)
-
-    1.1.3 [Link 3](https://micreiros.com/padroes-de-codificacao-no-desenvolvimento-de-sistemas/)
-
-    1.1.4 [Link 4](https://tableless.com.br/introducao-a-padroes-de-codificacao/)
 
   1.2 Sugestão de links para a pesquisa sobre Reflexão:
 
