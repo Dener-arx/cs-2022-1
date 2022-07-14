@@ -1,7 +1,5 @@
 package ContaBancaria;
 
-
-
 public class ContaBancaria {
 	private double Saldo;
 	
