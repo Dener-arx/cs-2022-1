@@ -1,8 +1,5 @@
 package Login;
 
-
-
-
 public class LoginInvalidoException extends Exception {
 	
 	public LoginInvalidoException(){
