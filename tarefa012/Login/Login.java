@@ -1,9 +1,5 @@
 package Login;
 
-
-
-
-
 public class Login {
 	private String usuario;
 	private String senha;
