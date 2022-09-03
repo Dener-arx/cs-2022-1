@@ -1,0 +1,12 @@
+Ordenando 100 elementos:
+Recursivo: 80301 ns
+Iterativo: 54799 ns 
+
+Ordenando 1000 elementos:
+Recursivo: 867700 ns
+Iterativo: 887600 ns 
+
+Ordenando 10000 elementos:
+Recursivo: 3212900 ns
+Iterativo: 3947100 ns 
+
